@@ -1,6 +1,6 @@
 ## Data Scientist Salary Prediction
 
-![Data Scientist Salary Prediction](https://github.com/user-attachments/assets/c257b7f1-67f7-4072-9a2f-29eefb99d693)
+![Data Scientist Salary Prediction](https://github.com/user-attachments/assets/5eeaafd3-ad50-4908-8262-477f7281e74c)
 
 ## Objective
 
